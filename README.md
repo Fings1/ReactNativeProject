@@ -1,11 +1,11 @@
 # ReactNativeProject
-Aplicacion en react native utilizando FlatList para mostrar los datos del endpoint y StackNavigator para la navegacion entre componentes
+Aplication with react native using FlatList for show data from endpoint  and StackNavigator
 
-Iniciar el proyecto
+Init proyect
 -------------------
 
 + git clone https://github.com/Fings1/ReactNativeProject
 + cd ReactNativeProject
 + npm install
-+ iniciar emulador Android/iOS
++ init emulator Android/iOS
 + react-native run-android/run-ios
